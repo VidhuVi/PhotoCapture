@@ -1,0 +1,2 @@
+# PhotoCapture
+Trying out opencv..
